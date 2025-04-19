@@ -16,7 +16,7 @@ This project implements a deep learning-based beamforming algorithm to optimize 
 
 ## 🧩 Project Structure
 ```
-📦BeamformingOptimization
+📦Beamforming Optimization
  ┣ 📂results
  ┃ ┣ 📂figures
  ┃ ┗ 📂logs
@@ -32,37 +32,38 @@ This project implements a deep learning-based beamforming algorithm to optimize 
 
 ## 🛠️ How to Run
 
-1. **Open MATLAB**.
-2. Add all files to the **same folder**.
-3. Open `main.m` and click **Run**.
+1. Open MATLAB.
+2. Add all files to the **same folder.
+3. Open `main.m` and click Run.
 
 The simulation will:
-- Generate and process data.
-- Train the DNN for beam prediction.
-- Compare SNR of conventional vs AI-based beamforming.
-- Apply RL for beam optimization.
+ Generate and process data.
+ Train the DNN for beam prediction.
+ Compare SNR of conventional vs AI-based beamforming.
+ Apply RL for beam optimization.
 
----
+
+
 
 ## 📈 Outputs
-- **Plot**: `snr_comparison.png`
-- **Training Visuals**: `training_progress.png`, `rl_training_monitor.png`
-- **Model**: `beamforming_dnn.mat`
+ Plot: snr_comparison.png
+ Training Visuals: training_progress.png, `rl_training_monitor.png
+ Model: beamforming_dnn.mat
 
 ---
 
 ## 🧠 Dependencies
-- MATLAB R2021a or later
-- **Required Toolboxes**:
-  - Deep Learning Toolbox
-  - Reinforcement Learning Toolbox
-  - Communications Toolbox (recommended)
+ MATLAB R2021a or later
+ Required Toolboxes:
+   Deep Learning Toolbox
+   Reinforcement Learning Toolbox
+   Communications Toolbox (recommended)
 
 ---
 
 ## 📄 Report
 See `Project_Report.pdf` for:
-- Methodology
-- Simulation parameters
-- Results & discussions
-- Conclusion and future scope
+ Methodology
+ Simulation parameters
+ Results & discussions
+ Conclusion and future scope
