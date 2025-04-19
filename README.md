@@ -16,7 +16,7 @@ This project implements a deep learning-based beamforming algorithm to optimize 
 
 ## 🧩 Project Structure
 ```
-📦Beamforming Optimization
+📦BeamformingOptimization
  ┣ 📂results
  ┃ ┣ 📂figures
  ┃ ┗ 📂logs
@@ -44,10 +44,9 @@ The simulation will:
 
 
 
-
 ## 📈 Outputs
- Plot: snr_comparison.png
- Training Visuals: training_progress.png, `rl_training_monitor.png
+ Plot: comparison between AI driven.png, main_snr.png, simulate_mimo_snr.png
+ Training Visuals: dnn_training_progress.png, rl_training_monitor.png
  Model: beamforming_dnn.mat
 
 ---
