@@ -30,7 +30,7 @@ This project implements a deep learning-based beamforming algorithm to optimize 
 
 ---
 
-## 🚀 How to Run
+## 🛠️ How to Run
 
 1. **Open MATLAB**.
 2. Add all files to the **same folder**.
@@ -66,6 +66,3 @@ See `Project_Report.pdf` for:
 - Simulation parameters
 - Results & discussions
 - Conclusion and future scope
-
-
-
