@@ -16,19 +16,17 @@ This project implements a deep learning-based beamforming algorithm to optimize 
 
 ## 🧩 Project Structure
 ```
-.
-├── main.m                          # Main script to run the entire simulation
-├── dnn_model.m                    # Trains and saves the deep neural network
-├── simulate_mimo.m                # Simulates MIMO system and generates features/labels
-├── conventional_beamforming.m     # Returns SNR for conventional beamforming
-├── rl_beam_optimization.m         # Applies reinforcement learning for beam optimization
-├── beamforming_dnn.mat            # Saved DNN model
-├── snr_comparison.png             # Comparison plot between conventional and AI beamforming
-├── training_progress.png          # Screenshot of DNN training progress (if captured)
-├── rl_training_monitor.png       # Screenshot of RL training monitor (if captured)
-├── Project_Report.pdf             # Detailed project report
-└── README.md                      # Project description and instructions
-```
+📦BeamformingOptimization
+ ┣ 📂results
+ ┃ ┣ 📂figures
+ ┃ ┗ 📂logs
+ ┣ 📜beamforming_dnn.mat
+ ┣ 📜conventional_beamforming.m
+ ┣ 📜dnn_model.m
+ ┣ 📜main.m
+ ┣ 📜rl_beam_optimization.m
+ ┣ 📜simulate_mimo.m
+ ┗ 📜README.md
 
 ---
 
