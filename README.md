@@ -67,8 +67,5 @@ See `Project_Report.pdf` for:
 - Results & discussions
 - Conclusion and future scope
 
----
 
-## 👨‍💻 Developed by
-Your Name – Electronics & Communication Engineering  
-College Name – Batch Year
+
